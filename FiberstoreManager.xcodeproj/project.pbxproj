@@ -15,6 +15,7 @@
 		18F32258205388F70030F822 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F32257205388F70030F822 /* main.m */; };
 		18F32262205388F80030F822 /* FiberstoreManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F32261205388F80030F822 /* FiberstoreManagerTests.m */; };
 		18F3226D205388F80030F822 /* FiberstoreManagerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F3226C205388F80030F822 /* FiberstoreManagerUITests.m */; };
+		18F322BA205626A70030F822 /* Myview.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F322B9205626A70030F822 /* Myview.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		18F32268205388F80030F822 /* FiberstoreManagerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FiberstoreManagerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F3226C205388F80030F822 /* FiberstoreManagerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FiberstoreManagerUITests.m; sourceTree = "<group>"; };
 		18F3226E205388F80030F822 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18F322B8205626A70030F822 /* Myview.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Myview.h; sourceTree = "<group>"; };
+		18F322B9205626A70030F822 /* Myview.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Myview.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				18F32249205388F60030F822 /* AppDelegate.m */,
 				18F3224B205388F60030F822 /* ViewController.h */,
 				18F3224C205388F60030F822 /* ViewController.m */,
+				18F322B8205626A70030F822 /* Myview.h */,
+				18F322B9205626A70030F822 /* Myview.m */,
 				18F3224E205388F70030F822 /* Main.storyboard */,
 				18F32251205388F70030F822 /* Assets.xcassets */,
 				18F32253205388F70030F822 /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18F322BA205626A70030F822 /* Myview.m in Sources */,
 				18F3224D205388F60030F822 /* ViewController.m in Sources */,
 				18F32258205388F70030F822 /* main.m in Sources */,
 				18F3224A205388F60030F822 /* AppDelegate.m in Sources */,
