@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"这里是哪里啊");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
