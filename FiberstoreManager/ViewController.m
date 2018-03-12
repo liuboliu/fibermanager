@@ -19,6 +19,7 @@
     NSLog(@"这里是哪里啊");
     NSLog(@"你好你哭啊你宽");
     NSLog(@"关电脑关搭");
+     NSLog(@"你好 i 啊的方式第三方");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
