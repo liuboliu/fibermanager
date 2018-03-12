@@ -21,6 +21,7 @@
     NSLog(@"关电脑关搭");
     NSLog(@"你好");
      NSLog(@"你好 i 啊的方式第三方");
+    NSLog(@"测试本质测试分支测试分支");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
