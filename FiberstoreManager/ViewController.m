@@ -39,6 +39,7 @@
     ////
 /*8?*/
     NSLog(@"提交提交提交");
+    NSLog(@"NIHANINIHAO 你好你好你好你好你好你好你好");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
