@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		182D19BB2352CD0C005AD46B /* asdf.m in Sources */ = {isa = PBXBuildFile; fileRef = 182D19BA2352CD0C005AD46B /* asdf.m */; };
 		18F3224A205388F60030F822 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F32249205388F60030F822 /* AppDelegate.m */; };
 		18F3224D205388F60030F822 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F3224C205388F60030F822 /* ViewController.m */; };
 		18F32250205388F70030F822 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18F3224E205388F70030F822 /* Main.storyboard */; };
@@ -17,6 +16,7 @@
 		18F32262205388F80030F822 /* FiberstoreManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F32261205388F80030F822 /* FiberstoreManagerTests.m */; };
 		18F3226D205388F80030F822 /* FiberstoreManagerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F3226C205388F80030F822 /* FiberstoreManagerUITests.m */; };
 		18F322BA205626A70030F822 /* Myview.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F322B9205626A70030F822 /* Myview.m */; };
+		18FA04682352DF03005FF072 /* asdf.m in Sources */ = {isa = PBXBuildFile; fileRef = 182D19BA2352CD0C005AD46B /* asdf.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -277,8 +277,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				182D19BB2352CD0C005AD46B /* asdf.m in Sources */,
 				18F322BA205626A70030F822 /* Myview.m in Sources */,
+				18FA04682352DF03005FF072 /* asdf.m in Sources */,
 				18F3224D205388F60030F822 /* ViewController.m in Sources */,
 				18F32258205388F70030F822 /* main.m in Sources */,
 				18F3224A205388F60030F822 /* AppDelegate.m in Sources */,
