@@ -26,6 +26,8 @@
     asdf *s = [[asdf alloc] init];
     [s ste];
     
+    
+    
     UIStoryboard *stroyB = [UIStoryboard storyboardWithName:@"Storyboard" bundle:nil];
 
      NSLog(@"你好 i 啊的方式第三方");
