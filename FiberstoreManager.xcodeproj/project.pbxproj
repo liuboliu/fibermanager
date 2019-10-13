@@ -16,6 +16,7 @@
 		18F32262205388F80030F822 /* FiberstoreManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F32261205388F80030F822 /* FiberstoreManagerTests.m */; };
 		18F3226D205388F80030F822 /* FiberstoreManagerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F3226C205388F80030F822 /* FiberstoreManagerUITests.m */; };
 		18F322BA205626A70030F822 /* Myview.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F322B9205626A70030F822 /* Myview.m */; };
+		18FA04622352D4A8005FF072 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18FA04612352D4A8005FF072 /* Storyboard.storyboard */; };
 		18FA046C2352FD2A005FF072 /* asdf.m in Sources */ = {isa = PBXBuildFile; fileRef = 182D19BA2352CD0C005AD46B /* asdf.m */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,7 @@
 		18F3226E205388F80030F822 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18F322B8205626A70030F822 /* Myview.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Myview.h; sourceTree = "<group>"; };
 		18F322B9205626A70030F822 /* Myview.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Myview.m; sourceTree = "<group>"; };
+
 		18FA04632352D50D005FF072 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -116,6 +118,7 @@
 				18F322B9205626A70030F822 /* Myview.m */,
 				182D19B92352CD0C005AD46B /* asdf.h */,
 				182D19BA2352CD0C005AD46B /* asdf.m */,
+				18FA04612352D4A8005FF072 /* Storyboard.storyboard */,
 				18F3224E205388F70030F822 /* Main.storyboard */,
 				18FA04632352D50D005FF072 /* Storyboard.storyboard */,
 				18F32251205388F70030F822 /* Assets.xcassets */,
@@ -252,6 +255,7 @@
 			files = (
 				18F32250205388F70030F822 /* Main.storyboard in Resources */,
 				18F32255205388F70030F822 /* LaunchScreen.storyboard in Resources */,
+				18FA04622352D4A8005FF072 /* Storyboard.storyboard in Resources */,
 				18F32252205388F70030F822 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
