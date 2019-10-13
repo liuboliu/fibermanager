@@ -17,6 +17,7 @@
 		18F32262205388F80030F822 /* FiberstoreManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F32261205388F80030F822 /* FiberstoreManagerTests.m */; };
 		18F3226D205388F80030F822 /* FiberstoreManagerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F3226C205388F80030F822 /* FiberstoreManagerUITests.m */; };
 		18F322BA205626A70030F822 /* Myview.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F322B9205626A70030F822 /* Myview.m */; };
+		18FA04662352D9C4005FF072 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18FA04632352D50D005FF072 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -250,6 +251,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18FA04662352D9C4005FF072 /* Storyboard.storyboard in Resources */,
 				18F32250205388F70030F822 /* Main.storyboard in Resources */,
 				18F32255205388F70030F822 /* LaunchScreen.storyboard in Resources */,
 				18F32252205388F70030F822 /* Assets.xcassets in Resources */,
