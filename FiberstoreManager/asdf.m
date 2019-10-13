@@ -10,8 +10,9 @@
 
 @implementation asdf
 
-- (void) st {
-    ///ASDFASDFASDF;ASDJF;LKAJSDF;LKAJSDF;LKAJSDF;LKJASDF
-}
+///
 
+- (void)ste {
+    
+}
 @end

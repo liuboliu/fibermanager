@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "asdf.h"
 
 @interface ViewController ()
 
@@ -22,7 +23,13 @@
     NSLog(@"你好你哭啊你宽");
     NSLog(@"关电脑关搭");
     NSLog(@"你好");
+    asdf *s = [[asdf alloc] init];
+    [s ste];
     
+    
+    
+    UIStoryboard *stroyB = [UIStoryboard storyboardWithName:@"Storyboard" bundle:nil];
+
      NSLog(@"你好 i 啊的方式第三方");
     NSLog(@"测试本质测试分支测试分支");
     NSLog(@"这里是liu分支提交的");
