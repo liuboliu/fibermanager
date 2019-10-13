@@ -31,7 +31,7 @@
     ////
     ////
 /*8?*/
-    
+    NSLog(@"提交提交提交");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
