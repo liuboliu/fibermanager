@@ -10,7 +10,13 @@
 
 @implementation asdf
 
-///
+- (id)copyWithZone:(NSZone *)zone
+{
+    asdf *ad = [[asdf alloc] init];
+    ad.name = self.name.copy;
+    ad.son = self.son.copy;
+    return ad;
+}
 
 - (void)ste {
     
