@@ -7,11 +7,17 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Son.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface asdf : NSObject
+@interface asdf : NSObject <NSCopying>
 
+@property (strong, nonatomic) Son *son;
+
+@property (copy, nonatomic) NSString *name;
+//@property ()
+//@property ()
 
 - (void)ste;
 @end

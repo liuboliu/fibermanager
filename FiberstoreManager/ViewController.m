@@ -19,30 +19,23 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"这里是哪里啊");
-    NSLog(@"你好你哭啊你宽");
-    NSLog(@"关电脑关搭");
-    NSLog(@"你好");
-    asdf *s = [[asdf alloc] init];
-    [s ste];
+    Son *son = [[Son alloc] init];
+    asdf *sd = [[asdf alloc] init];
+    sd.son = son;
+    sd.name = @"asdnfi";
+    asdf *sdcopy = [sd copy];
+//    sdcopy.name = @"liu";
+    //sdcopy.name = [sdcopy.name stringByAppendingString:@"asdfas"];
+    NSLog(@"%p, %p 名字名字 %p %p  %@ %@ son %p %p",sd, sdcopy, sd.name,sdcopy.name,sd.name,sdcopy.name,sd.son,sdcopy.son);
     
-    
-    
-    UIStoryboard *stroyB = [UIStoryboard storyboardWithName:@"Storyboard" bundle:nil];
-
-     NSLog(@"你好 i 啊的方式第三方");
-    NSLog(@"测试本质测试分支测试分支");
-    NSLog(@"这里是liu分支提交的");
-    NSLog(@"这里过饿的这里的这里的");
-    NSLog(@"刘分支在此提交");
-    ////
-    ////
-/*8?*/
-    NSLog(@"提交提交提交");
-    NSLog(@"NIHANINIHAO 你好你好你好你好你好你好你好");
-    // Do any additional setup after loading the view, typically from a nib.
 }
 
+- (void)TEXT:(NSString *)ST
+{
+//    NSLog(@"拉拉了呢%p %p",&ST,ST);
+//    ST = @"3240897";
+//    NSLog(@"%p 你你你你%@",&ST, ST);
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
