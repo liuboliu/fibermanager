@@ -27,6 +27,7 @@
 //    sdcopy.name = @"liu";
     //sdcopy.name = [sdcopy.name stringByAppendingString:@"asdfas"];
     NSLog(@"%p, %p 名字名字 %p %p  %@ %@ son %p %p",sd, sdcopy, sd.name,sdcopy.name,sd.name,sdcopy.name,sd.son,sdcopy.son);
+    //ZHELI ZHELI zheli zhei zheli zheli zheli zheli zelizheli zheli zhelziizheli zhei zheli zheli zheli zheli zheli zheli zheli zheli zheli zheli 
     
 }
 
