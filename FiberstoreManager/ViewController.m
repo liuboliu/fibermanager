@@ -40,6 +40,7 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    //哈哈哈哈撒旦法水电费离开静安寺；地方了看见啊；送到路口附近；
     // Dispose of any resources that can be recreated.
 }
 
