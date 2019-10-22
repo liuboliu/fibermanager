@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18278A64235F4837003FBB20 /* Hahsview.m in Sources */ = {isa = PBXBuildFile; fileRef = 18278A63235F4837003FBB20 /* Hahsview.m */; };
 		1829D5CB2356A163007A9319 /* Son.m in Sources */ = {isa = PBXBuildFile; fileRef = 1829D5CA2356A163007A9319 /* Son.m */; };
 		18F3224A205388F60030F822 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F32249205388F60030F822 /* AppDelegate.m */; };
 		18F3224D205388F60030F822 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F3224C205388F60030F822 /* ViewController.m */; };
@@ -39,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18278A62235F4837003FBB20 /* Hahsview.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hahsview.h; sourceTree = "<group>"; };
+		18278A63235F4837003FBB20 /* Hahsview.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hahsview.m; sourceTree = "<group>"; };
 		1829D5C92356A163007A9319 /* Son.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Son.h; sourceTree = "<group>"; };
 		1829D5CA2356A163007A9319 /* Son.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Son.m; sourceTree = "<group>"; };
 		182D19B92352CD0C005AD46B /* asdf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = asdf.h; sourceTree = "<group>"; };
@@ -120,9 +123,10 @@
 				18F322B9205626A70030F822 /* Myview.m */,
 				182D19B92352CD0C005AD46B /* asdf.h */,
 				182D19BA2352CD0C005AD46B /* asdf.m */,
-
 				1829D5C92356A163007A9319 /* Son.h */,
 				1829D5CA2356A163007A9319 /* Son.m */,
+				18278A62235F4837003FBB20 /* Hahsview.h */,
+				18278A63235F4837003FBB20 /* Hahsview.m */,
 				18F3224E205388F70030F822 /* Main.storyboard */,
 				18FA04632352D50D005FF072 /* Storyboard.storyboard */,
 				18F32251205388F70030F822 /* Assets.xcassets */,
@@ -290,6 +294,7 @@
 				18F322BA205626A70030F822 /* Myview.m in Sources */,
 				18F3224D205388F60030F822 /* ViewController.m in Sources */,
 				18F32258205388F70030F822 /* main.m in Sources */,
+				18278A64235F4837003FBB20 /* Hahsview.m in Sources */,
 				18F3224A205388F60030F822 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
