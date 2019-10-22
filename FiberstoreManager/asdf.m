@@ -21,4 +21,14 @@
 - (void)ste {
     
 }
+
+- (void)RUN
+{
+    
+}
+
+- (void)mask
+{
+    
+}
 @end
